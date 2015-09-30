@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.536006
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0693-003詩本義-卷三.
 <pb:KR1c0008_SBCK_003-1a>¶
 詩本義卷第三¶
 　　　　　　歐陽氏¶
@@ -267,4 +271,3 @@
 玖謂其有羙德也子嗟子國當時賢士之字汎言之¶
 也¶
 <pb:KR1c0008_SBCK_003-13a>¶
-

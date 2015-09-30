@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.410078
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB09n0693-000詩本義-詩圖揔序.
 <pb:KR1c0008_SBCK_000-1a>¶
 　　　　詩圖揔序¶
 周之詩自文王始成王之際頌聲興焉周之盛德之¶
@@ -45,4 +49,3 @@
 有更十君而取其一篇者又有二十餘君而取其一¶
 篇猶是言之何啻乎三千詩三百一十一篇亡者六¶
 篇存者三百五篇云¶
-

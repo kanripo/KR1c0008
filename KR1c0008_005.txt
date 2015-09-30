@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.617791
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB09n0693-005詩本義-卷五.
 <pb:KR1c0008_SBCK_005-1a>¶
 詩本義卷第五¶
 　　　　　　歐陽氏¶
@@ -268,4 +272,3 @@
 本義曰周公攝政之初四國流言於外成王見疑於¶
 <pb:KR1c0008_SBCK_005-13a>¶
 <pb:KR1c0008_SBCK_005-14a>¶
-

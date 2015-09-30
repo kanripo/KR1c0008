@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.798326
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB09n0693-009詩本義-卷九.
 <pb:KR1c0008_SBCK_009-1a>¶
 詩本義卷第九¶
 　　　　　　歐陽氏¶
@@ -190,4 +194,3 @@
 謂征役者在險阻之中惟雨是憂不皇及他也履險¶
 遇雨征行所尤苦故以爲言¶
 <pb:KR1c0008_SBCK_009-9b>¶
-

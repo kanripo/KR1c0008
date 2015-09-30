@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.578324
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB09n0693-004詩本義-卷四.
 <pb:KR1c0008_SBCK_004-1a>¶
 詩本義卷第四¶
 　　　　　　歐陽氏¶
@@ -190,4 +194,3 @@
 顯服而不&KR0014;以周禮變其夷狄之俗故詩人刺之以¶
 詩蒹葭水草蒼蒼然茂盛必待霜降以成其質然後¶
 <pb:KR1c0008_SBCK_004-9b>¶
-

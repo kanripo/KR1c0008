@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.447970
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0693-001詩本義-卷一.
 <pb:KR1c0008_SBCK_001-1a>¶
 詩本義卷第一¶
 　　　　　　歐陽氏¶
@@ -200,4 +204,3 @@
 有趾爾更無他義也若序言關雎之應乃是關雎化¶
 行天下太平有瑞麟出而爲應不惟怪妄不&KR0052;且與¶
 詩意不&KR0011;關雎麟趾作非一人作麟趾者了無及關¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.491439
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB09n0693-002詩本義-卷二.
 <pb:KR1c0008_SBCK_002-1a>¶
 詩本義卷第二¶
 　　　　　　歐陽氏¶
@@ -258,4 +262,3 @@
 <pb:KR1c0008_SBCK_002-14b>¶
 爲比¶
 詩本義卷第二¶
-

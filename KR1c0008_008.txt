@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.751990
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB09n0693-008詩本義-卷八.
 <pb:KR1c0008_SBCK_008-1a>¶
 詩本義卷第八¶
 　　　　　　歐陽氏¶
@@ -327,4 +331,3 @@
 云四牡騑騑六轡如琴者謂調和車馬徃迎之如首¶
 章車牽也徒我見正得此賢女爲新昬則慰我心矣¶
 詩本義卷第八¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.709226
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB09n0693-007詩本義-卷七.
 <pb:KR1c0008_SBCK_007-1a>¶
 詩本義卷第七¶
 　　　　　　歐陽氏¶
@@ -360,4 +364,3 @@
 又如臨谷履冰常憂殞陷也¶
 詩本義卷第七¶
 <pb:KR1c0008_SBCK_007-17b>¶
-

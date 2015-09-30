@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.885266
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB09n0693-011詩本義-卷十一.
 <pb:KR1c0008_SBCK_011-1a>¶
 詩本義卷第十一¶
 　　　　　　歐陽氏¶
@@ -317,4 +321,3 @@
 以下所治宫中之内政及共祭祀之事也¶
 詩本義卷第十一¶
 <pb:KR1c0008_SBCK_011-15b>¶
-

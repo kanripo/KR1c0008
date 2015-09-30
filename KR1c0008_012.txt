@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.930298
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB09n0693-012詩本義-卷十二.
 <pb:KR1c0008_SBCK_012-1a>¶
 詩本義卷第十二¶
 　　　　　　歐陽氏¶
@@ -344,4 +348,3 @@
 者深微之謂也老氏言玄之又玄是　不必爲黒也¶
 苞有三蘖莫遂莫達　有截韋顧旣伐昆吾夏桀¶
 <pb:KR1c0008_SBCK_012-16b>¶
-

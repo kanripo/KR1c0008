@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:43.019625
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB09n0693-014詩本義-卷十四.
 <pb:KR1c0008_SBCK_014-1a>¶
 詩本義卷第十四¶
 　　　　　　　歐陽氏¶
@@ -258,4 +262,3 @@
 <pb:KR1c0008_SBCK_014-12b>¶
 焉¶
 詩本義卷第十四¶
-

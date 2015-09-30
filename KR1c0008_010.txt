@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩本義
-#+DATE: 2015-09-23 09:36:28
+#+DATE: 2015-09-12 00:39:42.844318
+#+PROPERTY: ID KR1c0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB09n0693-010詩本義-卷十.
 <pb:KR1c0008_SBCK_010-1a>¶
 詩本義卷第十¶
 　　　　　　歐陽氏¶
@@ -342,4 +346,3 @@
 詩本義卷第十¶
 　　　　　　　　　　　　　&KR0039;校周允成¶
 <pb:KR1c0008_SBCK_010-16b>¶
-
